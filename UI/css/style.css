@@ -1,0 +1,89 @@
+html, body {
+    height: 100%;
+}
+
+.main_page {
+    height: 100%;
+}
+
+#main_menu > li > a{
+    font-size: 12pt;
+    cursor: pointer;
+}
+
+#footer_menu {
+    cursor: pointer;
+}
+
+.disable {
+    display: none;
+}
+
+.progress {
+    margin-top: 5pt;
+}
+
+#main {
+    padding-top: 50pt;
+}
+
+.main {
+    padding-top: 10pt !important;
+}
+
+#main_state {
+    margin-top: 0;
+}
+
+.borrow_money_info, .loan_money_info {
+    border: 3pt solid #fc8768;
+    border-radius: 10pt;
+    margin: 15px;
+    padding: 15px;
+}
+
+.borrow_money_info h4, .loan_money_info h4 {
+    text-align: left;
+}
+
+#receiver, #sender {
+    color : #ff5252;
+    font-weight: bold;
+}
+
+#receiver_to_sender_money_current, #receiver_to_sender_money_all {
+    font-size: 15pt !important;
+}
+
+.send_money_button {
+    border-radius: 5pt !important;
+}
+
+#limit_date {
+    font-size: 15pt;
+}
+
+#add_account, #add_friend {
+    margin-top: 50pt;
+}
+
+#add_account_input, #add_friend_input {
+    margin-top: 10pt;
+}
+
+#account_list li, #frined_list li {
+    margin-top: 10pt;
+    list-style: square;
+}
+
+.input-group-btn {
+    border-radius: 0pt 0pt 0pt 0pt !important;
+}
+
+#my_friend_list input {
+    text-align: center;
+}
+
+.abutton {
+    cursor: pointer;
+}
