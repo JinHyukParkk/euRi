@@ -23,4 +23,4 @@ euRi
 
 ## 시연 영상
 -------------
-[![Alt text](https://youtu.be/mA8cjDR0F-M/0.jpg)](https://youtu.be/mA8cjDR0F-M)
+[![Alt text](./screenshot/videoTest.png)](https://youtu.be/mA8cjDR0F-M)
